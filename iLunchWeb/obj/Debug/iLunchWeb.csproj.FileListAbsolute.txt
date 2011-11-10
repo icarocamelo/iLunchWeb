@@ -1,0 +1,7 @@
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\bin\iLunchWeb.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\bin\iLunchWeb.pdb
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\bin\EntityFramework.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\bin\EntityFramework.xml
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\obj\Debug\ResolveAssemblyReference.cache
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\obj\Debug\iLunchWeb.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\obj\Debug\iLunchWeb.pdb

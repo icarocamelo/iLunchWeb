@@ -1,0 +1,5 @@
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\bin\Debug\iLunch.Utils.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\bin\Debug\iLunch.Utils.pdb
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\obj\Debug\ResolveAssemblyReference.cache
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\obj\Debug\iLunch.Utils.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\obj\Debug\iLunch.Utils.pdb

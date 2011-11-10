@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunchWeb", "iLunchWeb\iLunchWeb.csproj", "{13CD6F2C-26BF-45F1-962E-5ADAE8496FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.Dominio", "iLunch.Dominio\iLunch.Dominio.csproj", "{6F8AC883-C94F-47EC-958A-E2F7026A1D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.Repository", "iLunch.Repository\iLunch.Repository.csproj", "{DC9875A4-DB05-4F72-905E-F2D159B3594F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.Utils", "iLunch.Utils\iLunch.Utils.csproj", "{A1E586C6-D590-4004-A386-358B77971C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.Tests", "iLunch.Tests\iLunch.Tests.csproj", "{28927845-D821-4D4F-8998-63CEE4F37A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.IoC", "iLunch.IoC\iLunch.IoC.csproj", "{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CD6F2C-26BF-45F1-962E-5ADAE8496FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CD6F2C-26BF-45F1-962E-5ADAE8496FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CD6F2C-26BF-45F1-962E-5ADAE8496FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CD6F2C-26BF-45F1-962E-5ADAE8496FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8AC883-C94F-47EC-958A-E2F7026A1D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8AC883-C94F-47EC-958A-E2F7026A1D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8AC883-C94F-47EC-958A-E2F7026A1D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8AC883-C94F-47EC-958A-E2F7026A1D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9875A4-DB05-4F72-905E-F2D159B3594F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9875A4-DB05-4F72-905E-F2D159B3594F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9875A4-DB05-4F72-905E-F2D159B3594F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9875A4-DB05-4F72-905E-F2D159B3594F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E586C6-D590-4004-A386-358B77971C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E586C6-D590-4004-A386-358B77971C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E586C6-D590-4004-A386-358B77971C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E586C6-D590-4004-A386-358B77971C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28927845-D821-4D4F-8998-63CEE4F37A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28927845-D821-4D4F-8998-63CEE4F37A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28927845-D821-4D4F-8998-63CEE4F37A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28927845-D821-4D4F-8998-63CEE4F37A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

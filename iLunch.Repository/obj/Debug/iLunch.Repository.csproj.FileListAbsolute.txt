@@ -1,0 +1,16 @@
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\obj\Debug\ResolveAssemblyReference.cache
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Repository.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Repository.pdb
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\FluentNHibernate.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\Iesi.Collections.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Dominio.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Utils.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\LinFu.DynamicProxy.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\NHibernate.ByteCode.Castle.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\NHibernate.ByteCode.LinFu.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\NHibernate.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\Castle.Core.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Dominio.pdb
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Utils.pdb
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\obj\Debug\iLunch.Repository.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\obj\Debug\iLunch.Repository.pdb

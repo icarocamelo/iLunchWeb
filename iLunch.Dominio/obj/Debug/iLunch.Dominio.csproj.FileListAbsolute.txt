@@ -1,0 +1,12 @@
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\obj\Debug\ResolveAssemblyReference.cache
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\iLunch.Dominio.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\iLunch.Dominio.pdb
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\FluentNHibernate.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\NHibernate.ByteCode.Castle.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\NHibernate.ByteCode.LinFu.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\NHibernate.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\Iesi.Collections.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\Castle.Core.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\LinFu.DynamicProxy.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\obj\Debug\iLunch.Dominio.dll
+c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\obj\Debug\iLunch.Dominio.pdb
