@@ -6,7 +6,7 @@ using System.Text;
 namespace iLunch.Dominio
 {
     /// <summary>
-    /// User class.
+    /// User class. Test.
     /// </summary>
     public class User : Entity
     {
