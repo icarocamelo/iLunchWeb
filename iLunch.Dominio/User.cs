@@ -5,6 +5,9 @@ using System.Text;
 
 namespace iLunch.Dominio
 {
+    /// <summary>
+    /// User class.
+    /// </summary>
     public class User : Entity
     {
         public virtual string Name { get; set; }
