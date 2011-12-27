@@ -53,7 +53,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entity.cs" />
+    <Compile Include="Ingredient.cs" />
     <Compile Include="Mappings\UserMapping.cs" />
+    <Compile Include="Meal.cs" />
+    <Compile Include="Order.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

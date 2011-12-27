@@ -1,0 +1,7 @@
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunch.IoC\bin\Debug\iLunch.IoC.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunch.IoC\bin\Debug\iLunch.IoC.pdb
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunch.IoC\bin\Debug\Castle.Core.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunch.IoC\bin\Debug\Castle.Windsor.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunch.IoC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunch.IoC\obj\Debug\iLunch.IoC.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunch.IoC\obj\Debug\iLunch.IoC.pdb

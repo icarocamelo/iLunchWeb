@@ -5,3 +5,8 @@ c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunc
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\obj\Debug\ResolveAssemblyReference.cache
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\obj\Debug\iLunchWeb.dll
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunchWeb\obj\Debug\iLunchWeb.pdb
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\iLunch.Dominio.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\FluentNHibernate.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\NHibernate.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\Iesi.Collections.dll
+C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\iLunch.Dominio.pdb

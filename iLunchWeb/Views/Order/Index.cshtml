@@ -1,0 +1,19 @@
+﻿@model IEnumerable<iLunch.Dominio.Order>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Pedidos</h2>
+
+<ul>
+
+@foreach (var order in Model)
+{
+    <li>Pedidos: @order.Description</li>
+}
+
+</ul>
+
+
+
+

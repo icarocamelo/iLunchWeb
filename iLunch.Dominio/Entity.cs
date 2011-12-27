@@ -5,6 +5,7 @@ using System.Text;
 
 namespace iLunch.Dominio
 {
+    [Serializable]
     public abstract class Entity
     {
         public virtual long Id { get; set; }
