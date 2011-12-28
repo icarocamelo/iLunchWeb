@@ -1,38 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using NHibernate;
-using iLunch.Repository.Infrastructure;
+﻿using System.Collections.Generic;
+using iLunch.Dominio;
 using iLunch.Repository.Interfaces;
+using NHibernate;
+using System;
 
 namespace iLunch.Repository
 {
-    public abstract class AbstractRepository<T> : IRepository<T>
+    public abstract class AbstractRepository<T> : IRepository<T>, IDisposable where T : Entity
     {
+        private readonly ISession _session;
+
+        protected AbstractRepository(ISession session)
+        {
+            _session = session;
+        }
+
         public T Insert(T obj)
         {
-            using (ISession session = NHibernateUtils.OpenSession())
+            using (var transaction = _session.BeginTransaction())
             {
-                using (ITransaction transaction = session.BeginTransaction())
-                {
-                    session.Save(obj);
-                    transaction.Commit();
-                }
+                _session.Save(obj);
+                transaction.Commit();
             }
-
             return obj;
         }
 
         public T Update(T obj)
-        {
-            using (ISession session = NHibernateUtils.OpenSession())
+        {   
+            using (var transaction = _session.BeginTransaction())
             {
-                using (ITransaction transaction = session.BeginTransaction())
-                {
-                    session.Update(obj);
-                    transaction.Commit();
-                }
+                _session.Update(obj);
+                transaction.Commit();
             }
 
             return obj;
@@ -40,40 +38,49 @@ namespace iLunch.Repository
 
         public void Delete(T obj)
         {
-            using (ISession session = NHibernateUtils.OpenSession())
+            using (var transaction = _session.BeginTransaction())
             {
-                using (ITransaction transaction = session.BeginTransaction())
-                {
-                    session.Delete(obj);
-                    transaction.Commit();
-                }
+                _session.Delete(obj);
+                transaction.Commit();
             }
         }
 
         public T GetById(long id)
         {
-            using (ISession session = NHibernateUtils.OpenSession())
-            {
-                return (T)session.Get(typeof(T), id, LockMode.Read);
-            }
+            return (T)_session.Get(typeof(T), id, LockMode.Read);
         }
 
         public ICollection<T> GetAll()
-        {
-            using (ISession session = NHibernateUtils.OpenSession())
-            {
-                return session.CreateCriteria(typeof(T)).List<T>();
-            }
+        {   
+            return _session.CreateCriteria(typeof(T)).List<T>();
         }
 
         public ICollection<T> GetInterval(int start, int max)
         {
-            using (ISession session = NHibernateUtils.OpenSession())
+            return _session.CreateCriteria(typeof(T))
+                .SetMaxResults(max)
+                .SetFirstResult(start).List<T>();
+           
+        }
+
+        private bool _disposed = false;
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!this._disposed)
             {
-                return session.CreateCriteria(typeof(T))
-                    .SetMaxResults(max)
-                    .SetFirstResult(start).List<T>();
+                if (disposing)
+                {
+                    _session.Dispose();
+                }
             }
+            this._disposed = true;
+        }
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
         }
     }
 }

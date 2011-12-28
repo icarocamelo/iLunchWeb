@@ -10,3 +10,15 @@ c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunc
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\bin\Debug\LinFu.DynamicProxy.dll
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\obj\Debug\iLunch.Dominio.dll
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Dominio\obj\Debug\iLunch.Dominio.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\iLunch.Dominio.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\iLunch.Dominio.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\FluentNHibernate.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\NHibernate.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\Iesi.Collections.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\Castle.Core.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\bin\Debug\LinFu.DynamicProxy.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\obj\Debug\iLunch.Dominio.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Dominio\obj\Debug\iLunch.Dominio.pdb

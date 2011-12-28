@@ -10,3 +10,16 @@ C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunc
 C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\NHibernate.dll
 C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\Iesi.Collections.dll
 C:\Users\icaro_veras.VIRGO\Documents\Visual Studio 2010\Projects\iLunchWeb\iLunchWeb\bin\iLunch.Dominio.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\obj\Debug\iLunchWeb.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\obj\Debug\iLunchWeb.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\iLunchWeb.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\iLunchWeb.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\Castle.Windsor.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\EntityFramework.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\iLunch.Dominio.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\iLunch.Repository.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\Iesi.Collections.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\iLunch.Dominio.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\iLunch.Repository.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunchWeb\bin\EntityFramework.xml

@@ -39,6 +39,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,8 +47,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Installers\ControllerInstaller.cs" />
+    <Compile Include="Installers\RepositoryInstaller.cs" />
     <Compile Include="ResolveType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\iLunch.Dominio\iLunch.Dominio.csproj">
+      <Project>{6F8AC883-C94F-47EC-958A-E2F7026A1D08}</Project>
+      <Name>iLunch.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iLunch.Repository\iLunch.Repository.csproj">
+      <Project>{DC9875A4-DB05-4F72-905E-F2D159B3594F}</Project>
+      <Name>iLunch.Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

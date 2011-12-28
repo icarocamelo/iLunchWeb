@@ -3,3 +3,8 @@ c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunc
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\obj\Debug\ResolveAssemblyReference.cache
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\obj\Debug\iLunch.Utils.dll
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Utils\obj\Debug\iLunch.Utils.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Utils\bin\Debug\iLunch.Utils.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Utils\bin\Debug\iLunch.Utils.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Utils\obj\Debug\iLunch.Utils.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Utils\obj\Debug\iLunch.Utils.pdb

@@ -1,52 +1,64 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:HomeController.cs" caret="201" fromTop="9" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IRepository.cs" caret="376" fromTop="14" />
       <File id="6F8AC883-C94F-47EC-958A-E2F7026A1D08/f:Entity.cs" caret="185" fromTop="9" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:NHibernateUtils.cs" caret="782" fromTop="25" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IUserRepository.cs" caret="194" fromTop="8" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Impl/f:UserRepository.cs" caret="271" fromTop="10" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:FluentConfigurator.cs" caret="896" fromTop="28" />
-      <File id="A1E586C6-D590-4004-A386-358B77971C9D/f:Constants.cs" caret="228" fromTop="9" />
       <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:App.config" caret="0" fromTop="0" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="2964" fromTop="21" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="265" fromTop="10" />
-      <File id="65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76/f:ResolveType.cs" caret="371" fromTop="13" />
       <File id="6F8AC883-C94F-47EC-958A-E2F7026A1D08/f:User.cs" caret="208" fromTop="9" />
-      <File id="6F8AC883-C94F-47EC-958A-E2F7026A1D08/d:Mappings/f:UserMapping.cs" caret="161" fromTop="7" />
+      <File id="A1E586C6-D590-4004-A386-358B77971C9D/f:Constants.cs" caret="0" fromTop="0" />
+      <File id="6F8AC883-C94F-47EC-958A-E2F7026A1D08/f:Order.cs" caret="342" fromTop="12" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IRepository.cs" caret="170" fromTop="7" />
+      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="0" fromTop="0" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:HomeController.cs" caret="309" fromTop="13" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:AccountController.cs" caret="284" fromTop="9" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/d:Installers/f:ControllerInstaller.cs" caret="524" fromTop="15" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/d:Installers/f:RepositoryInstaller.cs" caret="657" fromTop="18" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/f:ControllerFactory.cs" caret="1628" fromTop="32" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/f:Web.config" caret="1460" fromTop="16" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:SessionProvider.cs" caret="393" fromTop="15" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/d:Installers/f:OrmInstaller.cs" caret="533" fromTop="15" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:FluentConfigurator.cs" caret="1508" fromTop="20" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Impl/f:UserRepository.cs" caret="273" fromTop="10" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IUserRepository.cs" caret="156" fromTop="7" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IOrderRepository.cs" caret="163" fromTop="7" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1716" fromTop="65" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/f:Global.asax.cs" caret="1087" fromTop="32" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Impl/f:OrderRepository.cs" caret="370" fromTop="13" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="740" fromTop="16" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Views/d:Order/f:Details.cshtml" caret="160" fromTop="11" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/f:SessionLifeCycle.cs" caret="745" fromTop="31" />
+      <File id="6F8AC883-C94F-47EC-958A-E2F7026A1D08/d:Mappings/f:UserMapping.cs" caret="416" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="786" fromTop="28" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1408" fromTop="31" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1174" fromTop="24" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1769" fromTop="26" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1535" fromTop="21" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="2211" fromTop="33" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="2109" fromTop="30" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="3317" fromTop="9" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="3330" fromTop="40" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IUserRepository.cs" caret="203" fromTop="8" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Impl/f:UserRepository.cs" caret="245" fromTop="9" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="3317" fromTop="26" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="446" fromTop="18" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:FluentConfigurator.cs" caret="1210" fromTop="38" />
-      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:FluentConfigurator.cs" caret="1039" fromTop="32" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="3329" fromTop="25" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="2824" fromTop="36" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="2248" fromTop="19" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="2564" fromTop="19" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="2964" fromTop="12" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:App.config" caret="428" fromTop="12" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:App.config" caret="267" fromTop="5" />
-      <File id="A1E586C6-D590-4004-A386-358B77971C9D/f:Constants.cs" caret="228" fromTop="9" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="1904" fromTop="27" />
-      <File id="28927845-D821-4D4F-8998-63CEE4F37A61/f:RepositoryTests.cs" caret="2633" fromTop="18" />
-      <File id="65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76/f:ResolveType.cs" caret="958" fromTop="9" />
-      <File id="65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76/f:ResolveType.cs" caret="958" fromTop="33" />
-      <File id="65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76/f:ResolveType.cs" caret="38" fromTop="0" />
-      <File id="65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76/f:ResolveType.cs" caret="954" fromTop="5" />
-      <File id="65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76/f:ResolveType.cs" caret="95" fromTop="5" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/f:Global.asax.cs" caret="954" fromTop="27" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/f:ControllerFactory.cs" caret="1327" fromTop="20" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/f:Web.config" caret="2467" fromTop="36" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/f:Web.config" caret="1585" fromTop="17" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/f:ControllerFactory.cs" caret="803" fromTop="10" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/f:SessionLifeCycle.cs" caret="367" fromTop="15" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:SessionProvider.cs" caret="328" fromTop="15" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:SessionProvider.cs" caret="436" fromTop="20" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Infrastructure/f:SessionProvider.cs" caret="262" fromTop="10" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Infrastructure/d:Installers/f:OrmInstaller.cs" caret="476" fromTop="14" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="240" fromTop="8" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1675" fromTop="26" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="2130" fromTop="29" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1915" fromTop="19" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/f:AbstractRepository.cs" caret="1701" fromTop="11" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IOrderRepository.cs" caret="156" fromTop="6" />
+      <File id="DC9875A4-DB05-4F72-905E-F2D159B3594F/d:Interfaces/f:IUserRepository.cs" caret="227" fromTop="8" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="700" fromTop="28" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="1745" fromTop="24" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="412" fromTop="9" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/f:Global.asax.cs" caret="1087" fromTop="32" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="533" fromTop="12" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="1676" fromTop="37" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="634" fromTop="19" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="634" fromTop="19" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="1423" fromTop="28" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="885" fromTop="26" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="1642" fromTop="38" />
+      <File id="13CD6F2C-26BF-45F1-962E-5ADAE8496FB2/d:Controllers/f:OrderController.cs" caret="1867" fromTop="23" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
@@ -55,15 +67,92 @@
       <Item value="long" priority="30" />
       <Item value="string" priority="62" />
       <Item value="IdentityGenerationStrategyBuilder" priority="31" />
-      <Item value="public" priority="63" />
+      <Item value="public" priority="286" />
       <Item value="Id`0" priority="31" />
-      <Item value="x" priority="63" />
+      <Item value="x" priority="159" />
       <Item value="Map`0" priority="31" />
       <Item value="const" priority="31" />
-      <Item value="IRepository" priority="31" />
+      <Item value="IRepository" priority="95" />
       <Item value="UserRepository`0" priority="30" />
-      <Item value="repository" priority="32" />
+      <Item value="repository" priority="97" />
       <Item value="Password" priority="32" />
+      <Item value="ActionResult`0" priority="31" />
+      <Item value="int" priority="31" />
+      <Item value="return" priority="255" />
+      <Item value="View`0" priority="31" />
+      <Item value="new" priority="383" />
+      <Item value="Order" priority="57" />
+      <Item value="model" priority="29" />
+      <Item value="iLunch" priority="31" />
+      <Item value="Dominio" priority="26" />
+      <Item value="Order`0" priority="154" />
+      <Item value="AbstractRepository" priority="31" />
+      <Item value="OrderRepository`0" priority="31" />
+      <Item value="ISession`0" priority="62" />
+      <Item value="session" priority="64" />
+      <Item value="readonly" priority="63" />
+      <Item value="private" priority="95" />
+      <Item value="_orderRepository" priority="32" />
+      <Item value="iOrderRepository" priority="32" />
+      <Item value="_repository" priority="159" />
+      <Item value="id" priority="95" />
+      <Item value="order" priority="54" />
+      <Item value="GetIWindsorContainer`0" priority="31" />
+      <Item value="container" priority="63" />
+      <Item value="AllTypes`0" priority="63" />
+      <Item value="BasedOnDescriptor`0" priority="31" />
+      <Item value="FindControllers`0" priority="31" />
+      <Item value="ControllerInstaller" priority="28" />
+      <Item value="static" priority="31" />
+      <Item value="IController`0" priority="62" />
+      <Item value="var" priority="63" />
+      <Item value="c" priority="31" />
+      <Item value="Castle" priority="31" />
+      <Item value="MicroKernel" priority="26" />
+      <Item value="Registration" priority="26" />
+      <Item value="AllTypesOf`0" priority="53" />
+      <Item value="Entity`0" priority="95" />
+      <Item value="User`0" priority="31" />
+      <Item value="T`0" priority="63" />
+      <Item value="OrderRepository" priority="28" />
+      <Item value="Meal`0" priority="95" />
+      <Item value="Ingredient`0" priority="31" />
+      <Item value="GetConfiguration`0" priority="63" />
+      <Item value="ComponentRegistration" priority="28" />
+      <Item value="ComponentModel" priority="28" />
+      <Item value="typeof" priority="31" />
+      <Item value="OrmInstaller" priority="28" />
+      <Item value="try" priority="31" />
+      <Item value="null" priority="223" />
+      <Item value="controllerType" priority="31" />
+      <Item value="conf" priority="31" />
+      <Item value="Container" priority="31" />
+      <Item value="_instance" priority="63" />
+      <Item value="if" priority="95" />
+      <Item value="config" priority="63" />
+      <Item value="true" priority="63" />
+      <Item value="IUserRepository`0" priority="31" />
+      <Item value="controller" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="_session" priority="31" />
+      <Item value="using" priority="31" />
+      <Item value="IDisposable`0" priority="31" />
+      <Item value="IList" priority="31" />
+      <Item value="orders" priority="63" />
+      <Item value="ICollection" priority="63" />
+      <Item value="Collection&lt;Order&gt;" priority="28" />
+      <Item value="List&lt;Order&gt;" priority="28" />
+      <Item value="OrderedEnumerableRowCollection&lt;Order&gt;" priority="28" />
+      <Item value="Id" priority="53" />
+      <Item value="Description" priority="65" />
+      <Item value="Price" priority="32" />
+      <Item value="_orders" priority="63" />
+      <Item value="Meal" priority="28" />
+      <Item value="List" priority="31" />
+      <Item value="List&lt;Meal&gt;" priority="28" />
+      <Item value="meals" priority="63" />
+      <Item value="Meals" priority="32" />
+      <Item value="GetLista`0" priority="31" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:iLunch.Dominio.User">
       <Item value="Id" priority="26" />
@@ -78,6 +167,93 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:iLunch.Repository.Interfaces.IUserRepository">
       <Item value="GetAll`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="model" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:iLunch.Repository.Interfaces.IOrderRepository">
+      <Item value="GetAll`0" priority="53" />
+      <Item value="GetInterval`0" priority="26" />
+      <Item value="GetById`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:iLunch.Dominio.Order">
+      <Item value="Description" priority="45" />
+      <Item value="Price" priority="22" />
+      <Item value="Meals" priority="22" />
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="DisplayFor`2" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:iLunch.Dominio.Meal">
+      <Item value="Description" priority="23" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.IWindsorContainer">
+      <Item value="Register`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.MicroKernel.Registration.AllTypes">
+      <Item value="FromThisAssembly`0" priority="22" />
+      <Item value="FromAssemblyNamed`0" priority="26" />
+      <Item value="FromAssemblyContaining`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.FromAssemblyDescriptor">
+      <Item value="BasedOn`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.BasedOnDescriptor">
+      <Item value="Configure`0" priority="26" />
+      <Item value="If`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@iLunch.IoC.ResolveType">
+      <Item value="InitializeContainer`0" priority="26" />
+      <Item value="InstallComponents`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.MockRepository">
+      <Item value="DynamicMock`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.WindsorContainer">
+      <Item value="Install`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.Lifestyle.LifestyleGroup`1">
+      <Item value="Singleton" priority="50" />
+      <Item value="PerWebRequest" priority="26" />
+      <Item value="Transient" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Cfg.Configuration">
+      <Item value="BuildSessionFactory`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@iLunch.Repository.Infrastructure.SessionProvider">
+      <Item value="CurrentSession" priority="26" />
+      <Item value="Factory" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.ComponentRegistration`1">
+      <Item value="Instance`0" priority="26" />
+      <Item value="UsingFactoryMethod`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.ServiceDescriptor">
+      <Item value="DefaultInterface`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.FluentConfiguration">
+      <Item value="BuildConfiguration`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@iLunch.Repository.Infrastructure.FluentConfigurator">
+      <Item value="BuildSchema`0" priority="26" />
+      <Item value="Instance" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISessionFactory">
+      <Item value="OpenSession`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Where`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="SingleOrDefault`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>
@@ -95,6 +271,7 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>

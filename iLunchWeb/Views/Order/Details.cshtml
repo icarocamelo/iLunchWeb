@@ -1,0 +1,29 @@
+﻿@model iLunch.Dominio.Order
+@{
+    ViewBag.Title = "Browse";
+}
+
+<h2>Detalhes</h2>
+
+
+<fieldset>
+    <legend>Pedidos</legend>
+
+    <div>Descrição</div>
+    <div>@Html.DisplayFor(model => model.Description)</div>
+
+    <div>Preço</div>
+    <div>@Html.DisplayFor(model => model.Price)</div>
+
+    <div>Descrição</div>
+    <div>
+    <ul>
+        @foreach (var order in Model.Meals)
+        {
+            <li>@order.Description</li>
+        }
+    </ul>
+    
+    </div>
+
+</fieldset>

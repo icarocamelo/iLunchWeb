@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace iLunch.Utils
+﻿namespace iLunch.Utils
 {
     public static class Constants
     {

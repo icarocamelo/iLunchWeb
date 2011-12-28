@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.Utils", "iLunch.Util
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.Tests", "iLunch.Tests\iLunch.Tests.csproj", "{28927845-D821-4D4F-8998-63CEE4F37A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLunch.IoC", "iLunch.IoC\iLunch.IoC.csproj", "{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,10 +37,6 @@ Global
 		{28927845-D821-4D4F-8998-63CEE4F37A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28927845-D821-4D4F-8998-63CEE4F37A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28927845-D821-4D4F-8998-63CEE4F37A61}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65F9DADD-D6E9-44BF-9CF6-F2CCE6CC1B76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

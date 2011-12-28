@@ -14,3 +14,19 @@ c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunc
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Utils.pdb
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\obj\Debug\iLunch.Repository.dll
 c:\users\icaro_veras.virgo\documents\visual studio 2010\Projects\iLunchWeb\iLunch.Repository\obj\Debug\iLunch.Repository.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\obj\Debug\iLunch.Repository.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Repository.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Repository.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\FluentNHibernate.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\Iesi.Collections.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Dominio.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Utils.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\LinFu.DynamicProxy.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\NHibernate.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\Castle.Core.dll
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Dominio.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\bin\Debug\iLunch.Utils.pdb
+C:\Projetos\iLunchWeb\iLunchWeb\iLunch.Repository\obj\Debug\iLunch.Repository.pdb

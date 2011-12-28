@@ -1,5 +1,6 @@
 ﻿using FluentNHibernate.Cfg;
 using FluentNHibernate.Cfg.Db;
+using NHibernate;
 using NHibernate.Cfg;
 using NHibernate.Tool.hbm2ddl;
 using iLunch.Dominio;
@@ -20,16 +21,23 @@ namespace iLunch.Repository.Infrastructure
         {
             _instance = Fluently
                 .Configure()
-                .Database(MsSqlConfiguration.MsSql2005
+                .Database(MsSqlConfiguration.MsSql2008
                               .ConnectionString(c => c.FromConnectionStringWithKey(Constants.STRING_CONNECTION)))
                 .Mappings(x => x.FluentMappings.AddFromAssemblyOf<User>())
-                .BuildConfiguration();
-
+                .Mappings(x => x.FluentMappings.AddFromAssemblyOf<Order>())
+                .Mappings(x => x.FluentMappings.AddFromAssemblyOf<Meal>())
+                .Mappings(x => x.FluentMappings.AddFromAssemblyOf<Ingredient>())
+                .ExposeConfiguration(cfg => cfg.SetProperty(
+                                        Environment.CurrentSessionContextClass,
+                                        "web")).BuildConfiguration();
             return _instance;
         }
 
         public static void BuildSchema(Configuration config, bool dropAll, bool createAll)
         {
+            if (config == null)
+                config = GetConfiguration();
+
             var schema = new SchemaExport(config);
 
             if (dropAll)
@@ -37,6 +45,11 @@ namespace iLunch.Repository.Infrastructure
 
             if (createAll)
                 schema.Create(false, true);
+        }
+
+        public ISessionFactory CreateSessionFactory()
+        {
+            return GetConfiguration().BuildSessionFactory();
         }
     }
 }

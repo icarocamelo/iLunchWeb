@@ -59,9 +59,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractRepository.cs" />
+    <Compile Include="Impl\OrderRepository.cs" />
     <Compile Include="Impl\UserRepository.cs" />
     <Compile Include="Infrastructure\FluentConfigurator.cs" />
-    <Compile Include="Infrastructure\NHibernateUtils.cs" />
+    <Compile Include="Infrastructure\SessionProvider.cs" />
+    <Compile Include="Interfaces\IOrderRepository.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Interfaces\IUserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

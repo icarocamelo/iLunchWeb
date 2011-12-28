@@ -1,17 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using Castle.Windsor;
+using iLunch.Repository.Infrastructure;
+using iLunchWeb.Infrastructure;
+using iLunchWeb.Infrastructure.Installers;
 
 namespace iLunchWeb
 {
-    // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
-    // visit http://go.microsoft.com/?LinkId=9394801
-
-    public class MvcApplication : System.Web.HttpApplication
+    public class MvcApplication : HttpApplication
     {
+        private static readonly WindsorContainer Container = new WindsorContainer();
+
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
@@ -26,15 +26,24 @@ namespace iLunchWeb
                 "{controller}/{action}/{id}", // URL with parameters
                 new { controller = "Home", action = "Index", id = UrlParameter.Optional } // Parameter defaults
             );
-
         }
 
         protected void Application_Start()
         {
+            //FluentConfigurator.BuildSchema(null, true, true);
+            Container.Install(
+                new RepositoryInstaller(),
+                new ControllerInstaller(),
+                new OrmInstaller()
+                );
+
+            ControllerBuilder.Current.SetControllerFactory(new ControllerFactory(Container.Kernel));//ControllerBuilder.Current.SetControllerFactory((typeof(CustomControllerFactory));
             AreaRegistration.RegisterAllAreas();
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
+            
+           
         }
     }
 }
